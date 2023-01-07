@@ -161,7 +161,8 @@ li{
 /*---------------------------- Banner Section End -------------------*/
 
 /*---------------------------- Footer Section Start ----------------*/
-.footer{display: flex;
+.footer{
+    display: flex;
     justify-content: center;
     align-items: center;
     height: 60vh;
@@ -216,3 +217,10 @@ small{
     background: #fff;
 }
 /*--------------------- Footer Section End --------------------- */
+.copy{
+    background: #151414;
+    color: #fff;
+    text-align: center;
+    font-size: 20px;
+    padding: 10px ;
+}
